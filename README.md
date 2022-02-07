@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @nicado
+- 👋 Hi, I’m CaptainIT.
 - 👀 I’m interested in ... solving problems and the internet of things.
 - 🌱 I’m currently learning ...data science.
 - 💞️ I’m looking to collaborate on ...new  technological trends.
